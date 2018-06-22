@@ -12,8 +12,7 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
-
+   forks is when you copy a repository to you profile from another user instead of doing pull manually clone when you download a repository branches when you do 2 versions of a project you can push or pull from it  one instead of other in case forks online cgithub branch you can pull or push from local
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
